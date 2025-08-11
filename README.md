@@ -1,2 +1,4 @@
-# Loan-Approval-Predictor
-Machine learning model to assess the likelihood of loan approval based on applicant profiles.
+Project in development, code files coming soon.
+
+# Loan Approval Predictor
+A machine learning model to predict loan approval status based on applicant data.
